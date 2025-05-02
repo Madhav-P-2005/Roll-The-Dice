@@ -7,7 +7,7 @@ Each tap on the button rolls a virtual dice, updates the dice face on screen, an
 
 ## 📱 Preview
 
-![Roll the Dice Demo](roll_dice_demo.gif)
+![Roll the Dice Demo](DiceApp/roll_dice_demo.gif)
 
 ---
 
