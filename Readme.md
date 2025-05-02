@@ -40,22 +40,19 @@ Each tap on the button rolls a virtual dice, updates the dice face on screen, an
    ```bash
    git clone <your-repository-url>
    cd roll-the-dice
-````
+   ```
 
 2. **Install dependencies**
-
    ```bash
    npm install
    ```
 
 3. **Install haptic feedback package**
-
    ```bash
    npm install react-native-haptic-feedback
    ```
 
 4. **Run the app**
-
    ```bash
    npx react-native run-android
    # or
